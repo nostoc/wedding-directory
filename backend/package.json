@@ -27,7 +27,7 @@
     "@nestjs/config": "^3.2.3",
     "@nestjs/core": "^10.0.0",
     "@nestjs/graphql": "^12.2.0",
-    "@nestjs/platform-express": "^10.0.0",
+    "@nestjs/platform-express": "^10.4.2",
     "@nestjs/typeorm": "^10.0.2",
     "debug": "^4.3.5",
     "graphql": "^16.9.0",
