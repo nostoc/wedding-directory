@@ -19,7 +19,7 @@
     "test:cov": "jest --coverage"
   },
   "dependencies": {
-    "@apollo/server": "^4.10.5",
+    "@apollo/server": "^5.0.0",
     "@aws-sdk/client-s3": "^3.668.0",
     "@nestjs/apollo": "^12.2.0",
     "@nestjs/axios": "^3.0.3",
